@@ -1,2 +1,2 @@
 # portfolio2
-My Portfolio v 2.0
+This is a 2nd version of my portfolio, with using the new techniques I've learned.
