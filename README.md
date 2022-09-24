@@ -1,2 +1,2 @@
-# portfolio-2.0
+# portfolio2
 My Portfolio v 2.0
