@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="This is portfolio of Wladyslaw Pylypczuk">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Wlad's portfolio</title>
+        <link rel="icon" type="image/x-icon" href="<?php echo base_url();?>/favicon.ico">
+        <link rel="stylesheet" href="<?php echo base_url();?>/assets/css/styles.css" type="text/css" media="all">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="grid-container">
+
+            <div class="item1">
+        <header>Wlad Pylypczuk</header>
+            </div>
+            
+            <div class="item2">
+        <ul>
+            <li><a href=index.html rel="noopener noreferrer">Home</a><span class="note"> (this page)</span></li>
+            <li><a href=app/Views/pages/assignments.html rel="noopener noreferrer">School assignments</a></li>
+            <li><a href=resume.html rel="noopener noreferrer">My Resume</a></li>
+            <li><a href=contact.html rel="noopener noreferrer">Contact</a></li>
+        </ul>
+        <a href="https://github.com/wladioluz" class="fa fa-github"></a>
+        <a href="https://www.linkedin.com/in/wpylypczuk/" class="fa fa-linkedin"></a>
+        <a href="https://www.instagram.com/wladioluz/" class="fa fa-instagram"></a>
+             </div>
+
+            <div class="item3">
+            <h1></h1>
+            <p><img src="port.JPG" alt="Wlad Pylypczuk, in a hat during sunset"></p>
+            <p>Hello world!<br>
+            This is my portfolio website with some example school projects using HTML, CSS, JavaScript, RWD and more...</p>
+            </div>
+    
+            <div class="item4">
+    <footer>
+        <p>This webpage was created by Wladyslaw Pylypczuk &copy, you can contact me on my <a href="mailto:w.pylypczuk@gmail.com">email</a></p>
+    </footer>
+             </div>
+
+    </div>
+  
+</body>
+</html>
