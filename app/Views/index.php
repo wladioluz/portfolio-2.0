@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Wlad's portfolio</title>
         <link rel="icon" type="image/x-icon" href="<?php echo base_url();?>/favicon.ico">
-        <link rel="stylesheet" href="<?php echo base_url();?>/assets/css/styles.css" type="text/css" media="all">
+        <link rel="stylesheet" type="text/css" media="all" href="<?php echo base_url();?>/assets/css/styles.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
@@ -19,9 +19,11 @@
             <div class="item2">
         <ul>
             <li><a href=index.html rel="noopener noreferrer">Home</a><span class="note"> (this page)</span></li>
-            <li><a href=app/Views/pages/assignments.html rel="noopener noreferrer">School assignments</a></li>
+            <li><a href="<?php echo base_url();?>/assignments.html" rel="noopener noreferrer">School assignments</a></li>
             <li><a href=resume.html rel="noopener noreferrer">My Resume</a></li>
             <li><a href=contact.html rel="noopener noreferrer">Contact</a></li>
+            <?php echo "base url: " . base_url() . "<br>"; 
+            echo "site url: " . site_url();?>
         </ul>
         <a href="https://github.com/wladioluz" class="fa fa-github"></a>
         <a href="https://www.linkedin.com/in/wpylypczuk/" class="fa fa-linkedin"></a>
