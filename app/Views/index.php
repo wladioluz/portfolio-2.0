@@ -32,7 +32,7 @@
 
             <div class="item3">
             <h1></h1>
-            <p><img src="port.JPG" alt="Wlad Pylypczuk, in a hat during sunset"></p>
+            <p><img src="<?php echo base_url();?>/assets/images/IMG_4210_transparent.png" alt="Wlad Pylypczuk, in a hat during sunset"></p>
             <p>Hello world!<br>
             This is my portfolio website with some example school projects using HTML, CSS, JavaScript, RWD and more...</p>
             </div>

@@ -67,8 +67,9 @@ text-align: center;
 img {
 vertical-align: middle;
 padding-right: 5px;
-width: 130px;
-height: 150px;
+width: 300px;
+height: 300px;
+border-radius: 50%;
 }
 
 ul {
