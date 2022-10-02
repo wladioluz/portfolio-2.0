@@ -31,11 +31,11 @@
 
             <div class="item3">
             <h1></h1>
-            <p><img src="<?php echo base_url();?>/assets/images/IMG_4210_transparent.png" alt="Wlad Pylypczuk, in a hat during sunset"></p>
+            <p><img src="/assets/images/web-dev-profile.webp" alt="Wlad Pylypczuk, in a hat during sunset"></p>
             <p>Hello world!<br>
             This is my portfolio website with some example school projects using HTML, CSS, JavaScript, RWD and more...</p>
             </div>
-            
+
             <div class="item4">
     <footer>
         <p>This webpage was created by Wladyslaw Pylypczuk &copy, you can contact me on my <a href="mailto:w.pylypczuk@gmail.com">email</a></p>
